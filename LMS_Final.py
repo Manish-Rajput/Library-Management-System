@@ -388,27 +388,3 @@ class Library():
         str3 = str1 + str2
         return str3
 
-
-# In[4]:
-
-
-Man = Library()
-
-
-# In[3]:
-
-
-Man.Borrowers
-
-
-# In[4]:
-
-
-Man = Library()
-
-
-# In[ ]:
-
-
-
-
